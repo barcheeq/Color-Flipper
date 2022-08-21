@@ -1,2 +1,2 @@
-# Color-Flipper
+# ColorFlipperApp
 Test APP by Artem
